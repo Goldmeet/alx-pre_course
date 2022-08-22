@@ -1,0 +1,1 @@
+Gettin starting with git
